@@ -1,0 +1,6 @@
+*.exe
+Dist/
+Resources/
+bin/
+obj/
+
